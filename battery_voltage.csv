@@ -1,3 +1,4 @@
+test_1,test_2,result,start,stop,time_index,battery_current,field,measurement,host,name,slave_id,type
 ,,17,2023-05-25T06:00:00Z,2023-05-25T18:00:00Z,2023-05-25T06:02:00Z,705.4000000000001,battery voltage,modbus,freqcon,MB206_DC03_01,2,holding_register
 ,,17,2023-05-25T06:00:00Z,2023-05-25T18:00:00Z,2023-05-25T06:04:00Z,705.4000000000001,battery voltage,modbus,freqcon,MB206_DC03_01,2,holding_register
 ,,17,2023-05-25T06:00:00Z,2023-05-25T18:00:00Z,2023-05-25T06:06:00Z,705.4000000000001,battery voltage,modbus,freqcon,MB206_DC03_01,2,holding_register
